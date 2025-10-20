@@ -97,7 +97,7 @@ make valgrind
 
 - @guillaume-xue
 - @XiaoGunFr
-- Robic Matthieu
+- @MatthieuRbc
 
 ## 📄 Licence
 
